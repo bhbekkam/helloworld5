@@ -1,1 +1,2 @@
-# helloworld5
+# HelloWorld-php
+Sample hello world app for PHP!
